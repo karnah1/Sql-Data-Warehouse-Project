@@ -112,7 +112,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I’m ##Karunakar Gudikandula
+Hi there! I’m Karunakar Gudikandula.
+
 🚀 I’m a B.Tech CSE Graduate (2020-2024) from Lovely Professional University on a mission to bridge the gap between complex Data Engineering and impactful Data Analytics!
 
 🏗️ Engineering: Building ETL pipelines with Azure, Databricks, & PySpark.
